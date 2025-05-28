@@ -4,16 +4,12 @@ title: About Me
 permalink: /about-me.html
 
 about:
-  name: Ta'quavian Johnson
-  role: Junior, Electrical Engineering Major at Example University
-  image: /assets/images/me.jpg
-  linkedin: https://www.linkedin.com/in/taquavian-johnson/
+  name: Anuva Nuzhat
+  role: Sophmore, Computer Science and Buisness Administration Major @ NC State University
+  image: assets/images/aboutme.jpg
+  linkedin: https://www.linkedin.com/in/anuva-nuzhat-51848b262/
   bio: |
-    I’m currently a junior studying Electrical Engineering at Example University in Atlanta, Georgia. I expect to graduate in 2026.
-
-    My work explores the intersection of hardware and intelligence—how wearable devices and embedded systems can help people better understand their health and environment.
-
-    When I’m not working on research, I enjoy mentoring younger students, playing jazz trumpet, and tinkering with Raspberry Pi projects in my free time.
+    Hello! My name is Anuva Nuzhat and I study Computer Science and Buisness Administration at North Carolina State University. My expected graduation date is in 2028. I've got a passion for AI and making real world impacts with the systems I make.
 
   hobbies:
     - icon: 🎺
