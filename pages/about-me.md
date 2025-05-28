@@ -21,9 +21,6 @@ about:
     - icon: 🥘
       title: Cooking
       description: As a huge foodie I love trying out different restaurants and food to eat. Cooking up a delicious meal at home is always fun!
-      - icon: 🎨
-      title: Painting
-      description: Although I love tech, I also have a more creative side to me. Painting is my favorite relaxer.
 
   gallery:
     - image: /assets/images/me-guitar.png
