@@ -23,12 +23,10 @@ about:
       description: As a huge foodie I love trying out different restaurants and food to eat. Cooking up a delicious meal at home is always fun!
 
   gallery:
-    - image: /assets/images/me-guitar.png
-      caption: Playing guitar at the park!
-    - image: /assets/images/me-basketball.png
-      caption: Hooping and dropping people off at the park 🏀
-    - image: /assets/images/me.jpg
-      caption: My favorite portrait of myself :)
-    - image: /assets/images/me-pi.png
-      caption: Working on a personal project w/ the Raspberry PI
+    - image: assets/images/me-canyon.jpg
+      caption: Hiking Antelope Canyon in Arizona!
+    - image: assets/images/me-eats.jpg
+      caption: Trying out new places to eat!
+    - image: assets/images/me-italy.jpg
+      caption: Old bookstore in Italy
 ---
