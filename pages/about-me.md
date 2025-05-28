@@ -12,15 +12,18 @@ about:
     Hello! My name is Anuva Nuzhat and I study Computer Science and Buisness Administration at North Carolina State University. My expected graduation date is in 2028. I've got a passion for AI and making real world impacts with the systems I make.
 
   hobbies:
-    - icon: 🎺
-      title: Playing Guitar
-      description: I’ve been playing trumpet since middle school and love improvising to Coltrane and Miles Davis tracks.
-    - icon: 🤖
-      title: Raspberry Pi Projects
-      description: I enjoy building mini smart devices—like home sensors and wearables—using Raspberry Pi.
-    - icon: 🕹️
-      title: Retro Gaming
-      description: I love modding old consoles and diving into pixel art games on emulators.
+    - icon: 🎞️
+      title: Watching Films
+      description: I have a love for all media especially movies! My favorites include Parasite, City of God, and Little Women.
+    - icon: ✈️
+      title: Travel
+      description: I love exploring and staying active. I'm always down for a hike and travelling around the world are apart of my dreams.
+    - icon: 🥘
+      title: Cooking
+      description: As a huge foodie I love trying out different restaurants and food to eat. Cooking up a delicious meal at home is always fun!
+      - icon: 🎨
+      title: Painting
+      description: Although I love tech, I also have a more creative side to me. Painting is my favorite relaxer.
 
   gallery:
     - image: /assets/images/me-guitar.png
