@@ -3,34 +3,26 @@ layout: project
 title: About My Project
 permalink: /about-my-project.html
 
-subtitle: Neural Engineering & Assistive Robotics
-project_title: "NeuroLink Assist: Adaptive Robotics through Brain Signal Decoding"
-
+subtitle: AI-Driven Comorbidity Management in Type 1 Diabetes
+project_title: "AI-Driven Comorbidity Management in Type 1 Diabetes: A Reinforcement Learning Approach for Thyroid, Celiac, and Cardiovascular Disorders"
 problem: |
-  Individuals with severe motor disabilities often struggle with basic tasks that could be aided by robotic assistance. However, there is a lack of accessible and adaptive systems that respond naturally to the user's intent via brain-computer interfaces.
+  Indivituals with Type 1 Diabetes are often at risk of other health problems associated with diabetes. However, there aren't many ways to determine the risks of contacting other health problems while looking at current Type 1 Diabetes patients.
 
-  This project seeks to explore how neural signals can be translated into reliable control commands for assistive robots, improving autonomy and quality of life.
+  This project seeks to explore how using AI reinforcement learning we can look at patient data and find preemptive signs of other health problems specifically thyroid, celiac and cardiovascular disorders that can come with Type 1 diabetes.
 
 approach: |
-  The project follows a four-phase pipeline:
-
-  - Collect EEG data during imagined movements using a non-invasive BCI headset
-  - Train machine learning models to decode intent from neural patterns
-  - Integrate real-time signal classification with a robotic arm interface
-  - Evaluate system performance in simulated daily activities (e.g., object grasping, pointing)
-
-  Open-source tools such as OpenBCI, Python (MNE, Scikit-learn), and ROS (Robot Operating System) will be used to prototype the system.
+  TBD
 
 outcome: |
-  By the end of the program, the project will result in a working prototype of a BCI-controlled robotic arm and a poster presentation outlining the system architecture, training pipeline, and evaluation metrics. Insights from the user study will inform future directions in adaptive assistive technology.
+  TBD
 
-final_report_url: https://dl.icdst.org/pdfs/files/22e390b2eb0c8e951f3a742fda5b2d1d.pdf
+final_report_url: 
 
 grad_mentor:
-  name: Jamal Carter
-  linkedin: https://www.linkedin.com/in/jamal-carter
+  name: Ricky Gole
+  linkedin: https://www.linkedin.com/in/ricky-gole/
 
 faculty_mentor:
-  name: Dr. Elijah Freeman
-  linkedin: https://www.linkedin.com/in/dr-elijah-freeman
+  name: Dr. Jamell Dacon
+  linkedin: https://www.linkedin.com/in/jamelldacon/)
 ---
