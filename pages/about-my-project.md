@@ -6,12 +6,16 @@ permalink: /about-my-project.html
 subtitle: AI-Driven Comorbidity Management in Type 1 Diabetes
 project_title: "AI-Driven Comorbidity Management in Type 1 Diabetes: A Reinforcement Learning Approach for Thyroid, Celiac, and Cardiovascular Disorders"
 problem: |
-  Indivituals with Type 1 Diabetes are often at risk of other health problems associated with diabetes. However, there aren't many ways to determine the risks of contacting other health problems while looking at current Type 1 Diabetes patients.
+  Indivituals with Type 1 Diabetes are often at risk of other health problems associated with diabetes. Complications can arise over time because of high blood pressure which can damage the heart and blood vessels, leading to complications. Managing diabetes is a lot to handle at once and involves tracking multiple things at once such as insulin intake, tracking blood sugar levels and more.
 
-  This project seeks to explore how using AI reinforcement learning we can look at patient data and find preemptive signs of other health problems specifically thyroid, celiac and cardiovascular disorders that can come with Type 1 diabetes.
+  This project seeks to create personalized treatment plans for people with Type 1 diabetes using a specific type of AI called Deep Q Networks. The model will learn from personalized healthcare data like heart activity and blood sugar levels and suggest tailored strategies for the patient. This way patients can better manage their diabetes while simultaneously reduce their risk of other health complications. 
 
 approach: |
-  TBD
+  Over the course of the summer the approach for the project inludes...
+    1. Training a Deep Q Network to adapt to treatment based on T1D patients
+    2. Clean and prepare a set of data for AI training use
+    3. Create different simulations for the model to test different treatment strategies and their health impact
+    4. Evalue the model and compare the reccomendations to real world 
 
 outcome: |
   TBD
