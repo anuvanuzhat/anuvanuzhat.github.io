@@ -19,8 +19,8 @@ approach: |
 
 outcome: |
   The outcomes of this project include a trained AI driven system capable of recommending optimized treatment strategies to manage
-comorbidity risk in Type 1 Diabetes (T1D) patients. By using Deep Q-Networks (DQN), the system will learn from individual patient data and
-continuously adapt to provide the most effective treatment plans. We also expect to have an evaluation report in showing how well the AI performs in reducing health risks and improving treatment effectiveness. 
+  comorbidity risk in Type 1 Diabetes (T1D) patients. By using Deep Q-Networks (DQN), the system will learn from individual patient data and
+  continuously adapt to provide the most effective treatment plans. We also expect to have an evaluation report in showing how well the AI     performs in reducing health risks and improving treatment effectiveness. 
 
 final_report_url: 
 
