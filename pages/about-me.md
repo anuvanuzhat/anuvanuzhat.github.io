@@ -16,7 +16,7 @@ about:
       title: Watching Films
       description: I have a love for all media especially movies! My favorites include Parasite, City of God, and Little Women.
     - icon: ✈️
-      title: Travel
+      title: Traveling 
       description: I love exploring and staying active. I'm always down for a hike and travelling around the world are apart of my dreams.
     - icon: 🥘
       title: Cooking
