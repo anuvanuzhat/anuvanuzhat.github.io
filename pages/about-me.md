@@ -5,7 +5,7 @@ permalink: /about-me.html
 
 about:
   name: Anuva Nuzhat
-  role: Sophmore, Computer Science and Buisness Administration Major @ NC State University
+  role: Sophomore, Computer Science and Business Administration Major @ NC State University
   image: assets/images/aboutme.jpg
   linkedin: https://www.linkedin.com/in/anuva-nuzhat-51848b262/
   bio: |
