@@ -9,7 +9,7 @@ about:
   image: assets/images/aboutme.jpg
   linkedin: https://www.linkedin.com/in/anuva-nuzhat-51848b262/
   bio: |
-    Hello! My name is Anuva Nuzhat and I study Computer Science and Buisness Administration at North Carolina State University. I expect to graduate in 2028. I'm driven to create a more positive and better world through the use of AI and making real world impacts with the systems I make.
+    Hello! My name is Anuva Nuzhat and I study Computer Science and Business Administration at North Carolina State University. I expect to graduate in 2028. I'm driven to create a more positive and better world through the use of AI and making real world impacts with the systems I make.
 
   hobbies:
     - icon: 🎞️
