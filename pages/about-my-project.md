@@ -11,11 +11,11 @@ problem: |
   This project seeks to create personalized treatment plans for people with Type 1 diabetes using a specific type of AI called Deep Q Networks. The model will learn from personalized healthcare data like heart activity and blood sugar levels and suggest tailored strategies for the patient. This way patients can better manage their diabetes while simultaneously reduce their risk of other health complications. 
 
 approach: |
-  Over the course of the summer the approach for the project inludes...
-    1. Training a Deep Q Network to adapt to treatment based on T1D patients
-    2. Clean and prepare a set of data for AI training use
-    3. Create different simulations for the model to test different treatment strategies and their health impact
-    4. Evalue the model and compare the reccomendations to real world 
+  Over the course of the summer the approach for the project inludes…
+  1. Training a Deep Q Network to adapt to treatment based on T1D patients
+  2. Clean and prepare a set of data for AI training use
+  3. Create different simulations for the model to test different treatment strategies and their health impact
+  4. Evaluate the model and compare the recommendations to real world
 
 outcome: |
   The outcomes of this project include a trained AI driven system capable of recommending optimized treatment strategies to manage
