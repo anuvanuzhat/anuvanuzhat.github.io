@@ -1,0 +1,23 @@
+---
+layout: post  
+title: "Day 26 - Mid Program Symposium Presentation"  
+date: 2025-07-01
+author: Anuva Nuzhat  
+permalink: /day26.html  
+tags: ["Presentation"]  
+
+what_i_learned: >  
+  Today, I focused on preparing my slides for the upcoming Mid-Program Symposium. I delved down into weeks of technical work into 
+  a digestible material so that those who aren't familiar with my project can understand. I highlighted my project's goals, methods, 
+  and early results. Reviewing related literature helped me better contextualize my approach and identify how my work builds on existing studies in reinforcement learning for healthcare.  
+
+blockers: >  
+  No Blockers.  
+
+reflection: >  
+  Working on the presentation gave me a chance to reflect on the progress I’ve made so far—from understanding the medical complexities of 
+  comorbidities in Type 1 Diabetes to implementing and refining a Dueling DQN agent. It also pushed me to think critically about the 
+  challenges I've faced, like balancing all the biochemical parameters and model stability, and how I’ve grown through those moments. 
+  I’m proud of how much I’ve learned and excited (and a little nervous) to present it all soon.
+
+---
