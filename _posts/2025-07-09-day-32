@@ -1,0 +1,25 @@
+---
+layout: post  
+title: "Day 32 - Project and Progress Focus"  
+date: 2025-07-09
+author: Anuva Nuzhat  
+permalink: /day32.html  
+tags: ["Creatinine", "ALT", "Sodium", "Potassium", "Biochemical Parameters"]  
+
+what_i_learned: >  
+  Today, Dr. Dacon advised us to split our research into two separate projects to better focus our questions and goals. We talked about our
+  next steps with the two new projects and now having to work on two research papers. I was able to improve
+  my model’s accuracy significantly, raising it from just over 1% to around 30% for glucose predictions. This progress feels encouraging and
+  motivates me to continue refining the model. I also gained a clearer understanding of how to manage complex datasets with multiple 
+  biochemical parameters.
+
+blockers: >  
+  No Blockers.  
+
+reflection: >  
+  Splitting the project into two parts was a valuable suggestion that helped me think more critically about research focus and achievable 
+  goals. My other biochemical parameters are finally going great except for glucose which is at 30% accuracy rate. 
+  I feel more a little more stressed now we have two projects and our scope has shifted. I think the last two weeks might be a little stressful
+  but Dr. Dacon isn't worried so I hope that it all works out!
+
+---
